@@ -1,14 +1,12 @@
 <resources>
-    <string name="app_name">MyApp</string>
+    <string name="app_name">FontApp</string>
 
-    <string-array name="planets_array">
-        <item>Mercury</item>
-        <item>Venus</item>
-        <item>Earth</item>
-        <item>Mars</item>
-        <item>Jupiter</item>
-        <item>Saturn</item>
-        <item>Uranus</item>
-        <item>Neptune</item>
+    <string-array name="font_size_array">
+        <item>12</item>
+        <item>16</item>
+        <item>18</item>
+        <item>20</item>
+        <item>24</item>
+        <item>30</item>
     </string-array>
 </resources>
